@@ -1,0 +1,112 @@
+
+/*prva stran*/
+
+* {
+	font-size:14px;
+	font-family: Arial;
+	text-align:center;
+	color:#585858;
+	font-weight:lighter;
+}
+
+.prijava {
+	margin: 10px 30px auto auto;
+	width:100px;
+}
+
+.slika {
+	width:400px;
+	margin:auto;
+	margin-top:60px;
+}
+
+.iskalnik {
+	width:500px;
+	height:20px;
+	margin:40px auto auto auto;
+}
+
+.input1 {
+	width:500px; 
+	height:30px;
+	border-radius:3px;
+	border:1px solid LightGrey;
+	
+}
+
+input:hover {
+	box-shadow: 1px 1px grey;
+}
+
+.gumbi {
+	position:relative;
+	margin:30px auto auto auto;
+	width:140px;
+	height:30px;
+	background-color:white;
+	border:none;
+	font-weight:bold;
+}
+
+.gumbi:hover {
+	border:1px solid LightGrey;
+}
+
+.gumb-prijava {
+	position:relative;
+	margin:30px auto auto auto;
+	width:130px;
+	height:30px;
+	background-color:white;
+	border:none;
+}	
+
+.gumb-prijava:hover {
+	text-decoration:underline;
+}
+
+/*prijavna stran*/
+
+.okvir {
+	width:400px;
+	height:500px;
+	border:1px solid LightGrey;
+	border-radius:3px;
+	box-shadow: 1px 1px 1px 1px silver;
+	margin:50px auto auto auto;
+}	
+
+.logo {
+	width:100px;
+	margin: 40px auto auto auto;
+}
+
+.vnos-mail {
+	width:300px;
+	margin:40px auto auto auto;
+	
+}
+
+.input2 {
+	width:300px; 
+	height:30px;
+	border-radius:3px;
+	border:1px solid LightGrey;
+}
+
+.next {
+	background-color: #4885ed;
+	margin:30px auto auto auto;
+	width:300px;
+	height:30px;
+	border:none;
+	border-radius:3px;
+	color:white;
+	font-size:16px;
+}
+
+.password {
+	float:right;
+	margin-right:45px;
+	color:blue;
+}
